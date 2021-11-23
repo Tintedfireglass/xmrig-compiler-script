@@ -16,7 +16,7 @@ and then
 
 nano config.json
 
-After the nano text editor opens copy the config.json file from the repository to your empty file and click ctrl+S to save it.
+After the nano text editor opens copy the config.json file from the repository to your empty file. Replace the "TYPE YOUR XMR ADDRESS" with your xmr address and click ctrl+S to save it.
 After it has saved click ctrl+X to quit the nano application.
 
 # Step 3 - running the miner
