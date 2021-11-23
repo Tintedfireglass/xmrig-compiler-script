@@ -1,0 +1,18 @@
+{
+    "autosave": true,
+    "cpu": true,
+    "opencl": false,
+    "cuda": false,
+    "pools": [
+        {
+            "coin": null,
+            "algo": null,
+            "url": "gulf.moneroocean.stream:20128",
+            "user": "ENTER YOUR XMR ADDRESS HERE",
+            "pass": "x",
+            "tls": true,
+            "keepalive": true,
+            "nicehash": false
+        }
+    ]
+}
