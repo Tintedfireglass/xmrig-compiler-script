@@ -3,7 +3,7 @@ a script to compile xmrig on linux and termux on android
 
 # Step 1 - compilation
 
-Run the compiling.sh file or copy the code in the compiling.sh file into the terminal and run it.
+Run the compiling.sh file or copy the code in the build.sh file into the terminal and run it.
 After the script is run xmrig has been compiled
 
 # Step 2 - configuration
