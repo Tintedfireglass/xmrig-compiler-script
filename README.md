@@ -10,11 +10,16 @@ After the script is run xmrig has been compiled
 
 type
 
+  ```  
 cd xmrig/build
+   ```  
 
 and then 
 
+  ```  
 nano config.json
+
+  ```  
 
 After the nano text editor opens copy the config.json file from the repository to your empty file. Replace the "TYPE YOUR XMR ADDRESS" with your xmr address and click ctrl+S to save it.
 After it has saved click ctrl+X to quit the nano application.
@@ -23,8 +28,12 @@ After it has saved click ctrl+X to quit the nano application.
 
 for running the miner, type these commands :
 
+  ```  
 cd xmrig/build
-
+  ```  
+  
 and then
 
+  ```  
 ./xmrig
+  ```  
